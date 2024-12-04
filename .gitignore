@@ -23,3 +23,8 @@ interface-transformations/output_sounds/*.wav
 #ignore working directories
 labs/
 labs-solutions
+config.json
+
+#ignore data
+exercises/newsound/*
+exercises/testDownload/*
